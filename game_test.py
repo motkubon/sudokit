@@ -2,6 +2,9 @@ import unittest
 from game import Cell, Board, impose_rule
 
 
+
+
+
 class TestCellMethods(unittest.TestCase):
 
     def test_compare_cells(self):
